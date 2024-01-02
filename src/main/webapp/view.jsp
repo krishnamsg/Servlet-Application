@@ -17,7 +17,7 @@
 
 <h2>The databse have these users registered through this form.</h2>
 
-<%! String password="abhiram*68*"; %>
+<%! String password="sagar123"; %>
 
 <% 
     // this makes the previous page out of the cached pages.
